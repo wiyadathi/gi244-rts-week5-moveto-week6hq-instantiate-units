@@ -3001,6 +3001,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 0
   curUnit: {fileID: 0}
+  curBuilding: {fileID: 0}
 --- !u!114 &1111501228 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 4509269917425615125, guid: 9dda4a431d4307045b4a97c5d21eb55c, type: 3}
